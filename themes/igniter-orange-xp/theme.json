@@ -1,0 +1,22 @@
+{
+    "code": "igniter-orange-xp",
+    "name": "Orange Theme [child]",
+    "description": "Free Modern, Responsive and Clean TastyIgniter Theme based on Livewire and Bootstrap.",
+    "parent": "igniter-orange",
+    "version": "v4.1.4",
+    "author": "TastyIgniter Dev Team",
+    "homepage": "",
+    "require": {
+        "igniter.broadcast": "*",
+        "igniter.cart": "*",
+        "igniter.coupons": "*",
+        "igniter.frontend": "*",
+        "igniter.local": "*",
+        "igniter.pages": "*",
+        "igniter.payregister": "*",
+        "igniter.reservation": "*",
+        "igniter.socialite": "*",
+        "igniter.translate": "*",
+        "igniter.user": "*"
+    }
+}
