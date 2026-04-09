@@ -13,7 +13,7 @@ hideFooter: 1
     useLinkAnchor: 1
 '[igniter-orange::menu-item-list]':
     isGrouped: 1
-    collapseCategoriesAfter: 5
+    collapseCategoriesAfter: 1
     itemsPerPage: 200
     sortOrder: 'menu_priority asc'
     showThumb: 1
